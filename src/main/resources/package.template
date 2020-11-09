@@ -1,0 +1,10 @@
+{
+  "name": "HTMLParser",
+  "label": "HTML Parser",
+  "description": "Provides actions for HTML parsing.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
